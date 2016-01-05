@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/net/144.38.192.167/vol/student_account/home/e/ecook/go/src/github.com/elinux88/cs3410/mapred'
+let g:netrw_dirhist_2='/net/144.38.192.167/vol/student_account/home/e/ecook/public_html/code_school/nodebasics'
+let g:netrw_dirhist_3='/net/144.38.192.167/vol/student_account/home/e/ecook/public_html/code_school/ngTodo/stylesheets'
+let g:netrw_dirhist_4='/net/144.38.192.167/vol/student_account/home/e/ecook/public_html/code_school/ngbasics/templates'
